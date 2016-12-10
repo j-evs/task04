@@ -1,0 +1,17 @@
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-chat_bubble" viewBox="0 0 24 24">
+<title>chat_bubble</title>
+<path class="path1" d="M20.016 2.016c1.078 0 1.969 0.891 1.969 1.969v12c0 1.078-0.891 2.016-1.969 2.016h-14.016l-3.984 3.984v-18c0-1.078 0.891-1.969 1.969-1.969h16.031z"></path>
+</symbol>
+<symbol id="icon-heart2" viewBox="0 0 24 24">
+<title>heart2</title>
+<path class="path1" d="M17.7 1.5c-2.523 0-4.694 2.052-5.699 4.195-1.006-2.143-3.178-4.195-5.7-4.195-3.478 0-6.3 2.823-6.3 6.301 0 7.075 7.137 8.93 12.001 15.924 4.597-6.951 11.999-9.075 11.999-15.924 0-3.478-2.823-6.301-6.3-6.301z"></path>
+</symbol>
+<symbol id="icon-loop2" viewBox="0 0 24 24">
+<title>loop2</title>
+<path class="path1" d="M20.852 3.898c-2.194-2.396-5.347-3.898-8.852-3.898-6.627 0-12 5.373-12 12h2.25c0-5.385 4.365-9.75 9.75-9.75 2.883 0 5.474 1.252 7.258 3.242l-3.509 3.508h8.25v-8.25l-3.148 3.148z"></path>
+<path class="path2" d="M21.75 12c0 5.385-4.365 9.75-9.75 9.75-2.883 0-5.474-1.252-7.258-3.242l3.508-3.508h-8.25v8.25l3.148-3.148c2.194 2.396 5.347 3.898 8.852 3.898 6.627 0 12-5.373 12-12h-2.25z"></path>
+</symbol>
+</defs>
+</svg>
